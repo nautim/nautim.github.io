@@ -1,0 +1,49 @@
+---
+layout: default
+---
+<!-- _layouts/teaching_portfolio.html -->
+<div class="portfolio">
+
+  <header class="portfolio-header">
+    <h1 class="portfolio-title">{{ page.title }}</h1>
+    {% if page.description %}<p class="portfolio-description">{{ page.description }}</p>{% endif %}
+  </header>
+
+  <article>
+    <div class="teaching-section">
+      {% for teaching_entry in site.data.teaching_portfolio %}
+        {% if site.jsonresume and site.jsonresume.size > 0 %}
+          {% unless site.jsonresume contains teaching_entry[0] %}
+            {% continue %}
+          {% endunless %}
+        {% endif %}
+        {% if teaching_entry[0] == "meta" or teaching_entry[1].size == 0 %}
+          {% continue %}
+        {% endif %}
+        <a class="anchor" id="{{ teaching_entry[0] }}"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">{{ teaching_entry[0] | capitalize }}</h3>
+          <div>
+          {% case teaching_entry[0] %}
+            {% when "teaching_experience" %}
+              {% include teaching_portfolio/teaching_experience.html %}
+            {% when "courses_taught" %}
+              {% include teaching_portfolio/courses_taught.html %}
+            {% when "teaching_philosophy" %}
+              {% include teaching_portfolio/teaching_philosophy.html %}
+            {% when "student_feedback" %}
+              {% include teaching_portfolio/student_feedback.html %}
+            {% when "teaching_awards" %}
+              {% include teaching_portfolio/teaching_awards.html %}
+            {% when "professional_development" %}
+              {% include teaching_portfolio/professional_development.html %}
+            {% else %}
+
+          {% endcase %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </article>
+
+</div>
