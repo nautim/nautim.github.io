@@ -1,12 +1,12 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: research
+permalink: /research/
 description:
 nav: true
 nav_order: 2
-display_categories: [Network Science, Brain Networks, Social Dynamics, Coding]
-horizontal: false
+display_categories: [Human Mobility, LaLa]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
