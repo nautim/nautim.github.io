@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cv
 permalink: /teaching/
 title: teaching
 description: My teaching experience, TAs and tutoring.
