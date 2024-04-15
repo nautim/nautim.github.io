@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://leonardodigaetano.github.io/sitemap.xml
+Sitemap: https://nautim.github.io/sitemap.xml
