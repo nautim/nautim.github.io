@@ -1,8 +1,4 @@
-I am a physicist with a dedicated focus on network science, particularly in its application to brain networks and social systems. 
-
-I am currently a PhD student in the department of [Network and data science](https://networkdatascience.ceu.edu/) @ [CEU](https://www.ceu.edu/) under the supervision of Federico Battiston.
-
-Previously, I have done my master degree at University of Catania under the supervision of Vito Latora and Lucas Lacasa.
+I am currently a PhD student in the department of [Network and data science](https://networkdatascience.ceu.edu/) @ [CEU](https://www.ceu.edu/) under the supervision of
 <!-- 
 # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
