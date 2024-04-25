@@ -4,7 +4,7 @@ title: Brain Networks analysis
 description: Higher-order and topological data analysis for Brain Networks.
 img: assets/img/illustration.png
 importance: 1
-category: Brain Networks
+category: Assignments
 #related_publications: einstein1956investigations, einstein1950meaning
 ---
 
