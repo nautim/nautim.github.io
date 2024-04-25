@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Leonardo Di Gaetano",
+    "name": "Timur Naushirvanov",
     "label": "PhD student in Network and Data Science",
     "image": "",
-    "email": "leonardo.digaetano.96[at]gmail.com",
-    "url": "https://leonardodigaetano.github.io",
+    "email": "nautim2808[at]gmail[dot]com",
+    "url": "https://nautim.github.io",
      "location": {
       "address": "Quellenstraße 51",
       "postalCode": "1100",
@@ -14,8 +14,8 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "leodigaetano",
-        "url": "https://twitter.com/leodigaetano"
+        "username": "naushirvanov",
+        "url": "https://twitter.com/naushirvanov"
       }
     ]
   },
@@ -24,67 +24,53 @@
       "name": "Department of Network and Data Science, Central European University",
       "position": "PhD student",
       "url": "https://networkdatascience.ceu.edu/",
-      "startDate": "2020",
+      "startDate": "2022",
       "endDate": "",
-      "summary": "Working on higher-order networks, structures, dynamics and applications. "
+      "summary": ""
     }
   ],
   "education": [
     {
-      "institution": "University of Catania, Catania, Italy",
-      "area": "Theoretical Physics",
-      "studyType": "MSc",
-      "startDate": "2018",
-      "endDate": "2020"
+      "institution": "Central European University, Vienna, Austria",
+      "area": "Quantitative Political Analysis, International Development, Global Governance",
+      "studyType": "Master of Public Administration",
+      "startDate": "2020",
+      "endDate": "2022"
     },
     {
-      "institution": "University of Catania, Catania, Italy",
+      "institution": "Higher School of Economics, Moscow, Russia",
       "area": "Physics",
-      "studyType": "BSc",
-      "startDate": "2015",
-      "endDate": "2018"
+      "studyType": "BSc in Political Science",
+      "startDate": "2016",
+      "endDate": "2020"
     }
   ],
   "visiting": [
     {
-      "institution": "QMUL, London, UK",
-      "area": "Master Thesis",
-      "studyType": "Master Thesis",
-      "startDate": "2020",
-      "endDate": ""
-    },
-    {
-      "institution": "VUMC, Amsterdam, Netherlands",
-      "area": "Visiting research on Brain Networks for Epilepsy",
-      "studyType": "Visiting PhD student",
-      "startDate": "2022",
-      "endDate": ""
-    },
-    {
-      "institution": "DIEP, UVA, Amsterdam, Netherlands",
-      "area": "Visiting research on higher-order centrality of structural Brain Networks",
-      "studyType": "Visiting PhD student",
-      "startDate": "2023",
-      "endDate": ""
+      "institution": "University of Edinburgh, United Kingdom",
+      "area": "Political Science",
+      "studyType": "Erasmus Exchange",
+      "startDate": "September 2019",
+      "endDate": "December 2019"
     }
   ],
 
   "languages": [
     {
-      "language": "Italian",
-      "fluency": "Native speaker"
+      "language": "Russian",
+      "fluency": "Native"
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Fluent (C1)"
     },
     {
       "language": "German",
-      "fluency": "Elementary"
+      "fluency": "Intermediate (B2)"
     },
     {
-      "language": "Spanish",
-      "fluency": "Elementary"
+      "language": "French",
+      "fluency": "Intermediate (B2)"
     }
   ]
 }
