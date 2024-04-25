@@ -1,7 +1,7 @@
 ---
 layout: teaching_layout
 permalink: /teaching2/
-title: Teaching Portfolio
+title: teaching
 description: Welcome to my Teaching Portfolio!
 nav: true
 nav_order: 5
