@@ -13,18 +13,6 @@ display_categories: [Network Science, Brain Networks, Social Dynamics, Coding]
 horizontal: false
 ---
 
-- **Tutor**, Mathematics
-  - Biology Department, University of Catania
-  - Natural Science Department, University of Catania
-- **Tutor**, Physics
-  - Biology  Departments, University of Catania
-  - Natural Science, University of Catania
-- **Teaching Assistant**, Introduction to Mathematics
-  - PPE Department, Bachelor, CEU
-  - Quantitative Social Science Department, Bachelor, CEU
-- **Teaching Assistant**, Dynamical Systems
-  - DNDS,  CEU
-
 
 <!-- pages/projects.md -->
 <div class="projects">
