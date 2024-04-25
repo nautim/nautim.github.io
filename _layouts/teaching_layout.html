@@ -66,25 +66,17 @@ layout: default
 <!--               {% include resume/basics.html %} -->
                 <div class="card mt-3 p-3">
                   <h3 class="card-title font-weight-medium">{{ "Me as a Teacher"}}</h3>
+                  <p> Hello, I am Timur, welcome to the Eras Tour!</p>
+                </div>
+
+            {% when "basics" %}
+                <div class="card mt-3 p-3">
+                  <h3 class="card-title font-weight-medium">{{ "Teaching Philosophy"}}</h3>
                   {% include resume/measteacher.html %}
                 </div>
                     
             {% when "education" %}
               {% include resume/education.html %}
-            {% when "visiting" %}
-              {% include resume/visiting.html %}
-            {% when "work" %}
-              {% include resume/work.html %}
-            {% when "volunteer" %}
-              {% include resume/volunteer.html %}
-            {% when "projects" %}
-              {% include resume/projects.html %}
-            {% when "awards" %}
-              {% include resume/awards.html %}
-            {% when "skills" %}
-              {% include resume/skills.html %}
-            {% when "publications" %}
-              {% include resume/publications.html %}
             {% when "languages" %}
               {% include resume/languages.html %}
             {% when "interests" %}
