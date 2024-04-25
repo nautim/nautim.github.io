@@ -76,13 +76,11 @@ layout: default
                 </div>
                     
             {% when "education" %}
-              {% include resume/education.html %}
-            {% when "languages" %}
-              {% include resume/languages.html %}
-            {% when "interests" %}
-              {% include resume/interests.html %}
-            {% when "certificates" %}
-              {% include resume/certificates.html %}
+                <div class="card mt-3 p-3">
+                  <h3 class="card-title font-weight-medium">{{ "Me as a Teacher"}}</h3>
+                  {% include resume/education.html %}
+                </div>
+            
             {% else %}
 
           {% endcase %}
