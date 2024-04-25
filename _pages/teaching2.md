@@ -9,7 +9,7 @@ cv_pdf: example_pdf.pdf
 toc:
   sidebar: left
 display_categories: [Assignments, Syllabi, Games]
-horizontal: false
+horizontal: true
 ---
 
 
