@@ -45,6 +45,22 @@
       "endDate": "2020"
     }
   ],
+    "teaching": [
+    {
+      "institution": "Central European University, Vienna, Austria",
+      "area": "Teaching Assistant",
+      "studyType": "Data Mining and Big Data Analytics",
+      "startDate": "Winter 2024",
+      "endDate": ""
+    },
+    {
+      "institution": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
   "visiting": [
     {
       "institution": "University of Edinburgh, United Kingdom",
