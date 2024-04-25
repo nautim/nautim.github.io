@@ -9,7 +9,7 @@ cv_pdf: example_pdf.pdf
 description: This is my CV. Download the pdf for the extended version.
 toc:
   sidebar: left
-display_categories: [Network Science, Brain Networks, Social Dynamics, Coding]
+display_categories: [Assignments, Syllabi, Games]
 horizontal: false
 ---
 
