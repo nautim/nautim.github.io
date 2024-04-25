@@ -6,8 +6,6 @@ description: Welcome to my Teaching Portfolio!
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf
-toc:
-  sidebar: left
 display_categories: [Assignments, Syllabi, Games]
 horizontal: false
 ---
