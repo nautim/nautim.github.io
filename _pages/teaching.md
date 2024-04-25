@@ -2,7 +2,7 @@
 layout: teaching
 permalink: /teaching/
 title: teaching
-description: My teaching experience, TAs and tutoring.
+description: My teaching EXP, TAs and tutoring.
 nav: true
 nav_order: 5
 toc:
