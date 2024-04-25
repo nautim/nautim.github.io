@@ -1,12 +1,11 @@
 ---
 layout: teaching_layout
 permalink: /teaching2/
-title: teaching
-description: My teaching experience, TAs and tutoring.
+title: Teaching Portfolio
+description: Welcome to my Teaching Portfolio!
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf
-description: This is my CV. Download the pdf for the extended version.
 toc:
   sidebar: left
 display_categories: [Assignments, Syllabi, Games]
