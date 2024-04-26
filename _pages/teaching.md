@@ -5,7 +5,7 @@ title: teaching
 description: Welcome to my Teaching Portfolio!
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
+cv_pdf: Naushirvanov-Teaching_Philosophy_Statement.pdf
 display_categories: [Assignments, Syllabi, Teaching Materials, Games]
 horizontal: false
 ---
