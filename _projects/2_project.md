@@ -4,7 +4,7 @@ title: Higher-order networks
 description: My works on foundations, structures and dynamics of higher-order networks.
 img: assets/img/hypergraph.png
 importance: 2
-category: Assignments
+category:
 related_publications: di2023percolation, di2023dynamical
 ---
 
