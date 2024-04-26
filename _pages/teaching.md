@@ -1,6 +1,6 @@
 ---
 layout: teaching_layout
-permalink: /teaching2/
+permalink: /teaching/
 title: teaching
 description: Welcome to my Teaching Portfolio!
 nav: true
