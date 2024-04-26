@@ -5,9 +5,13 @@ description: Syllabus Example
 img: 
 importance: 1
 category: Syllabi
+cv_pdf: Syllabus_Naushirvanov_final.pdf
 ---
 
 Here you can find an example of a Syllabus that I designed for the course titled 'Data and Network Science for Public Policy'.
+
+
+{% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}
 
 ## Course Description
 
