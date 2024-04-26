@@ -26,23 +26,26 @@
       "url": "https://networkdatascience.ceu.edu/",
       "startDate": "2022",
       "endDate": "",
-      "summary": ""
+      "summary": "",
+      "location":"Vienna, Austria"
     }
   ],
   "education": [
     {
-      "institution": "Central European University, Vienna, Austria",
+      "institution": "Central European University",
       "area": "Quantitative Political Analysis, International Development, Global Governance",
       "studyType": "Master of Public Administration",
       "startDate": "2020",
-      "endDate": "2022"
+      "endDate": "2022",
+      "location":"Vienna, Austria"
     },
     {
-      "institution": "Higher School of Economics, Moscow, Russia",
+      "institution": "Higher School of Economics",
       "area": "Quantitative Political Analysis",
       "studyType": "BSc in Political Science",
       "startDate": "2016",
-      "endDate": "2020"
+      "endDate": "2020",
+      "location":"Moscow, Russia"
     }
   ],
   "teaching": [
@@ -63,11 +66,12 @@
   ],
   "visiting": [
     {
-      "institution": "University of Edinburgh, United Kingdom",
+      "institution": "University of Edinburgh",
       "area": "Political Science",
       "studyType": "Erasmus Exchange",
       "startDate": "2019",
-      "endDate": ""
+      "endDate": "",
+      "location": "United Kingdom"
     }
   ],
 
