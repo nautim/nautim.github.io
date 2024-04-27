@@ -15,6 +15,7 @@
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: rgba(0,0,0,.6);
+  --global-divider-color-lighter:rgba(0,0,0,.4);
   --global-card-bg-color: #{$white-color};
 
   --global-tip-block: #42b983;
@@ -60,6 +61,7 @@ html[data-theme='dark'] {
   --global-footer-link-color: #{$black-color};
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #696970;
+  --global-divider-color-lighter:rgba(105, 105, 112, .6); // var(--global-divider-color);
   --global-card-bg-color: #{$grey-900};
 
   --global-tip-block: #42b983;
