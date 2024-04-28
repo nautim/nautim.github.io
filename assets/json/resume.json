@@ -50,18 +50,22 @@
   ],
   "teaching": [
     {
-      "institution": "Central European University, Vienna, Austria",
-      "area": "Teaching Assistant",
+      "institution": "Central European University",
+      "location":"Vienna, Austria",
+      "area": "Teaching Assistant of the Course",
       "studyType": "Data Mining and Big Data Analytics",
       "startDate": "Winter 2024",
-      "endDate": ""
+      "endDate": "",
+      "highlights":["", ""]
     },
     {
-      "institution": "",
-      "area": "",
-      "studyType": "",
-      "startDate": "",
-      "endDate": ""
+      "institution": "Central European University",
+      "location":"Vienna, Austria",
+      "area": "Gave a Lecture to the students of the Department of Data and Network Science",
+      "studyType": "Artificial Intelligence in Disaster Management",
+      "startDate": "Autumn 2023",
+      "endDate": "",
+      "highlights":["", ""]
     }
   ],
   "visiting": [
