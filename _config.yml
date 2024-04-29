@@ -110,7 +110,7 @@ contact_note: >
 google_analytics:  G-K1XMCZZETX # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
-google_site_verification: gG2bCE8ZPzIebi93zr34R # 7t4WOiG3DmMCmuENv1fJiXf22aCcumYP9KBdq7LR3NU # your google-site-verification ID (Google Search Console)
+google_site_verification: gG2bCE8ZPzIebi93zr34R-E06vNeexWC_tJM5hvbpKo # 7t4WOiG3DmMCmuENv1fJiXf22aCcumYP9KBdq7LR3NU # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
