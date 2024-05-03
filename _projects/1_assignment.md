@@ -4,7 +4,7 @@ title: Final Project
 description: For the Course 'Network and Data Science for Public Policy'
 img: 
 importance: 1
-category: Assignment
+category: Assignments
 cv_pdf: Assignment1_PBL.pdf
 ---
 
