@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Final Project
-description: For the Course 'Network and Data Science for Public Policy'
+description: For the Course 'Data and Network Science for Public Policy'
 img: 
 importance: 1
 category: Assignments
@@ -10,7 +10,7 @@ cv_pdf: Assignment1_PBL.pdf
 
 {% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf" style="font-size: 48px;"></i></a>{% endif %}
 
-Here is an example of a final assignment for the course "Network and Data Science for Public Policy." I designed this assignment with a focus on modern teaching methodologies, particularly Project-Based Learning, aimed at enhancing students' abilities to design and execute applied data science projects with a tangible final product. 
+Here is an example of a final assignment for the course "Data and Network Science for Public Policy." I designed this assignment with a focus on modern teaching methodologies, particularly Project-Based Learning, aimed at enhancing students' abilities to design and execute applied data science projects with a tangible final product. 
 
 
 ## About this Assignment
