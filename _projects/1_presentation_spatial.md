@@ -2,7 +2,7 @@
 layout: page
 title: Spatial Data Mining
 description: Presentation for the course "Data Mining and Big Data Analytics"
-img: 
+img: assets/img/img_spatial.png
 importance: 1
 category: Teaching Materials
 cv_pdf: spatial_class10.pdf
