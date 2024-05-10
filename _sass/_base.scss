@@ -181,7 +181,8 @@ blockquote {
 }
 
 .profile.float-center {
-  margin-left: 2in;
+  display: block; //?
+  margin-left: auto; // 3in
   margin-right: auto;
   margin-top: 1rem;
   margin-bottom: 1rem;
