@@ -194,8 +194,13 @@ layout: default
             
           {% case data[0] %}
             {% when "basics" %}
-               {% include resume/teachingassessment.html %}
-            
+<!--               {% include resume/basics.html %} -->
+                <div class="card mt-3 p-3">
+                  <h3 class="card-title font-weight-medium">{{ "Teaching Assessments and Feedback"}}</h3>
+                   {% include resume/teachingassessment.html %}
+                </div>
+
+            {% else %}
             {% else %}
 
           {% endcase %}
