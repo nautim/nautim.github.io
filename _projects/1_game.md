@@ -2,7 +2,7 @@
 layout: page
 title: Corrupted Dataset
 description: Data Challenge Game
-img: assets/img/img_spatial.png
+img: assets/img/img_game1.png
 importance: 1
 category: Games
 cv_pdf: Data Challenge - Corrupted Data - Google Forms - with answers.pdf
@@ -29,5 +29,12 @@ Throughout the game, students will:
 4. **Troubleshoot data issues independently:** Enhance problem-solving skills in resolving data-related challenges.
 
 
+## Game-Based Learning
+
+Game-Based Learning is a pedagogical approach that encourages using games to teach and reinforce educational objectives. It is a structured end-to-end approach which immerses learners in a simulated experience, which results in students learning. This concept is closely connected with the idea of Ludic Pedagogy, which embraces the importance of fun, meaningful play, playfulness, and humor WITHOUT sacrificing academic or intellectual rigour.
+
+## Why is it Important?
+
+It is my belief that students should have the opportunity to learn and practice their knowledge in a fun way through immersive gaming experiences. Through Game-Based Learning, students not only deepen their understanding of the subject matter but also cultivate critical thinking, problem-solving, and communication skills.
 
 
