@@ -68,9 +68,16 @@ layout: default
                   <h3 class="card-title font-weight-medium">{{ "Me as a Teacher"}}</h3>
                   {% include resume/measteacher.html %}
                 </div>
+            
+            <div class="profile float-right">
+              {%- assign profile_image_path = 'assets/img/me_teacher.png' -%}
 
-                  <!-- Add the image using the img tag with CSS styles -->
-                <img src="assets/img/me_teacher.png" style="max-width: 100%; height: auto;">
+              {% include figure.html
+              path=profile_image_path
+              class=profile_image_class
+              alt=page.profile.image
+              cache_bust=true -%}
+          </div>
 
             {% when "basics" %}
                 <div class="card mt-3 p-3">
