@@ -1,7 +1,11 @@
 ---
 layout: page
 title: Data Hackathon
-
+description: ViennaDataSprint - Hacking for a Greener City
+img: 
+importance: 1
+category: Assignments
+cv_pdf: Assignment2_EL.pdf
 ---
 
 {% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf" style="font-size: 48px;"></i></a>{% endif %}
