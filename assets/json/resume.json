@@ -49,32 +49,6 @@
       "location":"Moscow, Russia"
     }
   ],
-  "additional": [
-    {
-      "institution": "Central European University",
-      "area": "",
-      "studyType": "The Certificate of Teaching in Higher Education",
-      "startDate": "2023",
-      "endDate": "2024",
-      "location":"Vienna, Austria"
-    },
-    {
-      "institution": "",
-      "area": "Computer Vision, Deep Learning, Graph Neural Networks, and Generative Models",
-      "studyType": "Mediterranean Machine Learning Summer School",
-      "startDate": "2023",
-      "endDate": "",
-      "location":"Thessaloniki, Greece"
-    },
-    {
-      "institution": "Higher School of Economics",
-      "area": "Collecting Digital Trace Data, Automated Text Analysis and Networks, Digital Surveys",
-      "studyType": "The Summer Institute in Computational Social Science",
-      "startDate": "2021",
-      "endDate": "",
-      "location":"Online"
-    }
-  ],
   "teaching": [
     {
       "institution": "Central European University",
