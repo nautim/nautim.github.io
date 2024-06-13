@@ -9,6 +9,10 @@ display_categories: [Post-Crisis Human Behaviour with Mobile Data, Post-Crisis H
 horizontal: true
 ---
 
+  <div class="card mt-3 p-3">
+    <h3 class="card-title font-weight-medium">{{ "Me as a Researcher"}}</h3>
+    {% include resume/measteacher.html %}
+  </div>
 
 <!-- pages/projects.md -->
 <div class="projects">
