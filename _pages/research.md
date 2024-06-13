@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_research
 title: research
 permalink: /research/
 description:
@@ -8,6 +8,11 @@ nav_order: 2
 display_categories: [Post-Crisis Human Behaviour with Mobile Data, Post-Crisis Human Behaviour with Data from Meta, Other Current Projects, Past Research]
 horizontal: true
 ---
+
+<div class="card mt-3 p-3">
+  <h3 class="card-title font-weight-medium">{{ "Me as a Researcher"}}</h3>
+<!--   {% include resume/measteacher.html %} -->
+</div>
 
 <!-- pages/projects.md -->
 <div class="projects">
