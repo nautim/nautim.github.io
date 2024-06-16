@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 2
 display_categories: [Post-Crisis Human Behaviour with Mobile Data, Post-Crisis Human Behaviour with Data from Meta, Other Current Projects, Past Research]
-horizontal: false
+horizontal: true
 ---
 
 <div class="cv">
