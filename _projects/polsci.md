@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Political Science
-description:
+description: Research during my Bachelors
 img: 
 importance: 1
 category: Past Research
