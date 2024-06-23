@@ -24,10 +24,8 @@ For three years, I worked as a researcher at the [Laboratory for Educational Inn
 
 ## Collaborators
 
-Diana Koroleva
-
-Anastasia Andreeva
-
+Diana Koroleva  
+Anastasia Andreeva  
 Tatiana Khavenson
 
 ## Publications
@@ -41,6 +39,13 @@ Naushirvanov T. (2020) Цифровизация образования: опыт
 
 Koroleva D., Naushirvanov T. (2020) Экосистема развития инноваций российского образования: инфраструктурные харакеристики (The ecosystem of innovations in Russian education: infrastructural features). [Link (in Russian)](https://ioe.hse.ru/mirror/pubs/share/395140169.pdf)
 
+## Conferences
+
+Trends in Educational Development (Moscow), 18-20 February 2021  
+Report: Digitalisation of education in Russia, Hungary and Germany: comparison of existing strategies and their impact on practices during COVID-19
+
+Trends in Educational Development (Moscow), 13-15 February 2020  
+Report: Digitalisation of Education: Cases of Estonia, Singapore and South Korea
 
 
 
