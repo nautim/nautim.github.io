@@ -10,6 +10,14 @@ cv_pdf:
 
 {% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf" style="font-size: 48px;"></i></a>{% endif %}
 
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+    <span style="background-color: #0c436a; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Educational Innovations</span>
+    <span style="background-color: #4a1b75; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Digitalisation of Education</span>
+    <span style="background-color: #79094b; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Educational Technology</span>
+    <span style="background-color: #870808; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Comparative Education</span>
+</div>
+
 ## About this Project
 
 For three years, I worked as a researcher at the [Laboratory for Educational Innovation Research (Moscow)](https://ioe.hse.ru/en/innovations/). During this period, I analysed the educational innovation ecosystem in Russia and the digitalisation of educational systems in South Korea, Singapore, Estonia, Germany, and Hungary. Additionally, I contributed to the development of multiple surveys focused on educational innovations, conducted over 20 research interviews, and participated in the organisation of a [Competition of innovations in education](https://kivo.hse.ru/en).
@@ -34,13 +42,5 @@ Naushirvanov T. (2020) Цифровизация образования: опыт
 Koroleva D., Naushirvanov T. (2020) Экосистема развития инноваций российского образования: инфраструктурные харакеристики (The ecosystem of innovations in Russian education: infrastructural features). [Link (in Russian)](https://ioe.hse.ru/mirror/pubs/share/395140169.pdf)
 
 
-## Keywords
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-    <span style="background-color: #0c436a; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Educational Innovations</span>
-    <span style="background-color: #4a1b75; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Digitalisation of Education</span>
-    <span style="background-color: #79094b; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Educational Technology</span>
-    <span style="background-color: #870808; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Comparative Education</span>
-</div>
 
 
