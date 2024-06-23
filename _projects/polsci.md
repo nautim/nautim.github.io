@@ -36,12 +36,14 @@ Dina Rosenberg
 Patrick Sawyer  
 Yevgeny Ivanov
 
-## Publications
-
+## Publications  
 Naushirvanov, T., Rosenberg, D., Sawyer, P. and Seyis, D., 2022. How populists fuel polarization and fail their response to COVID-19: an empirical analysis. Frontiers in Political Science, 4, p.948137. [Link](https://www.frontiersin.org/articles/10.3389/fpos.2022.948137/full)
 
-## Conferences
+## Contributions to Publications  
+Stukal, D., Sanovich, S., Bonneau, R. and Tucker, J.A., 2017. Detecting bots on Russian political Twitter. Big data, 5(4), pp.310-324.  
+Sanovich, S., Stukal, D. and Tucker, J.A., 2018. Turning the virtual tables: Government strategies for addressing online opposition with an application to Russia. Comparative politics, 50(3), pp.435-482.
 
+## Conferences  
 XX April International Academic Conference on Economic andSocial Development (Moscow), 9-12 April 2019  
 Report: Patronal networks and the dynamics of the political regime in post-Soviet Russia
 
