@@ -12,15 +12,13 @@ cv_pdf:
 
 ## About this Project
 
-For three years, I was a researcher at the [Laboratory for Educational Innovation Research (Moscow)](https://ioe.hse.ru/en/innovations/). During this time, I was analysing the educational ecosystem of innovations in Russia and 
+For three years, I worked as a researcher at the [Laboratory for Educational Innovation Research (Moscow)](https://ioe.hse.ru/en/innovations/). During this period, I analysed the educational innovation ecosystem in Russia and the digitalisation of educational systems in South Korea, Singapore, Estonia, Germany, and Hungary. Additionally, I contributed to the development of multiple surveys focused on educational innovations, conducted over 20 research interviews, and participated in the organisation of a [Competition of innovations in education](https://kivo.hse.ru/en).
 
 ## Collaborators
 
-Petra Kralj Novak
-Alessandro Galeazzi
-Florian Weiler
-Carola Klöck
-Carson Maconga
+Diana Koroleva
+Anastasia Andreeva
+Tatiana Khavenson
 
 ## Publications
 
