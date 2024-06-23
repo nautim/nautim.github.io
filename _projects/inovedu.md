@@ -24,12 +24,12 @@ Tatiana Khavenson
 
 ## Publications
 
-Koroleva, D. and Naushirvanov, T., 2021. Digital Countries: особенности цифровизации образования в России, Венгрии и Германии. Образовательная политика, (3), pp.108-120. (Digital Countries: A Comparative Analysis of the Features of Digitalisation of Education in Russia, Hungary, and Germany) [Link (in Russian)](https://publications.hse.ru/en/articles/526013747)
+Koroleva, D. and Naushirvanov, T., 2021. Digital Countries: особенности цифровизации образования в России, Венгрии и Германии. Образовательная политика, (3), pp.108-120. (Digital Countries: A Comparative Analysis of the Features of Digitalisation of Education in Russia, Hungary, and Germany). [Link (in Russian)](https://publications.hse.ru/en/articles/526013747)
 
 Korolieva, D., Khavenson, T., Akaeva, K. and Naushirvanov, T., 2020. Interaction of the Russian schools with EdTech companies during the mass transition to distance learning. Monitoring of Education Markets and Organizations (MEMO), (14), pp.1-9. [Link](https://econpapers.repec.org/article/higmoneco/v_3a_3ay_3a2020_3ai_3a14_3ap_3a1-9.htm)
 
 Naushirvanov T. (2020) Цифровизация образования: опыт Эстонии, Сингапура и Южной Кореи (Digitalisation of Education: Cases of Estonia, Singapore and South Korea). In: Тенденции развития образования. Как спланировать и реализовать эффективные образовательные реформы: матери-
-алы XVII ежегодной Международной научно-практической конференции (Москва, 13–15 февраля 2020 г.).М: Издательский дом Дело, РАНХиГС, 2020. С. 40-50
+алы XVII ежегодной Международной научно-практической конференции (Москва, 13–15 февраля 2020 г.).М: Издательский дом Дело, РАНХиГС, 2020. С. 40-50.
 
 Koroleva D., Naushirvanov T. (2020) Экосистема развития инноваций российского образования: инфраструктурные харакеристики (The ecosystem of innovations in Russian education: infrastructural features). [Link (in Russian)](https://ioe.hse.ru/mirror/pubs/share/395140169.pdf)
 
