@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully passed DELF B2 in French 🇫🇷
+Successfully [passed](https://drive.google.com/file/d/1DH2tUCt1HDuetzMSQ50Z2clhfqkaxZ5i/view?usp=sharing) DELF B2 in French 🇫🇷
