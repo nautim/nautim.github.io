@@ -25,14 +25,10 @@ The DYSTENA project is dedicated to exploring sustainability and climate change 
 
 ## Collaborators
 
-Petra Kralj Novak
-
-Alessandro Galeazzi
-
-Florian Weiler
-
-Carola Klöck
-
+Petra Kralj Novak  
+Alessandro Galeazzi  
+Florian Weiler  
+Carola Klöck  
 Carson Maconga
 
 
