@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully organised Data Stories 2023 at CEU together with Helcio Felipe and Clara Eminente. Moreover, presented a poster "Taylor Swift Eras" (together with Julia Szamely and Clara Eminente).
+Successfully organised Data Stories 2023 at CEU together with Helcio Felipe and Clara Eminente. Moreover, presented a poster ["Taylor Swift Eras"](https://drive.google.com/file/d/1GSCeHn7hhXtOb5X98RDQrO9kCIMHpJtb/view?usp=sharing) (together with Julia Szamely and Clara Eminente).
