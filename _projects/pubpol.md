@@ -33,6 +33,6 @@ Martin Kahanec
 ## Contributions to Publications
 
 Viswanathan, B., Raizada, S., Bassi, A., Pallaske, G. and Beaton, C., 2022. India's State-Owned Energy Enterprises, 2020-2050. IISD, International Institute for Sustainable Development.  
-Aggarwal, P., Goel, S., Laan, T., Mehta, T., Pant, A., Raizada, S., Viswanathan, B., Viswamohanan, A., Beaton, C. and Ganesan, K., 2022. Mapping India's energy policy 2022: Aligning support and revenues with a net-zero future. IISD, International Institute for Sustainable Development.
+Aggarwal, P., Goel, S., Laan, T., Mehta, T., Pant, A., Raizada, S., Viswanathan, B., Viswamohanan, A., Beaton, C. and Ganesan, K., 2022. Mapping India's energy policy 2022: Aligning support and revenues with a net-zero future. IISD, International Institute for Sustainable Development.  
 Kahanec, M., Lafférs, L. and Schmidpeter, B., 2021. The impact of repeated mass antigen testing for COVID-19 on the prevalence of the disease. Journal of Population Economics, 34, pp.1105-1140.
 
