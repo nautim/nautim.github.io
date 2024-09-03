@@ -78,10 +78,19 @@
       "institution": "Central European University",
       "location":"Vienna, Austria",
       "area": "Teaching Assistant of the Course",
+      "studyType": "Introduction to Computational Social Science",
+      "startDate": "Fall 2024",
+      "endDate": "",
+      "highlights":["Mark Wittek", ""]
+    },
+    {
+      "institution": "Central European University",
+      "location":"Vienna, Austria",
+      "area": "Teaching Assistant of the Course",
       "studyType": "Data Mining and Big Data Analytics",
       "startDate": "Winter 2024",
       "endDate": "",
-      "highlights":["", ""]
+      "highlights":["Marton Karsai", ""]
     },
     {
       "institution": "Central European University",
