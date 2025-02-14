@@ -74,6 +74,15 @@
     }
   ],
   "teaching": [
+  {
+      "institution": "Central European University",
+      "location":"Vienna, Austria",
+      "area": "Teaching Assistant of the Course (with Márton Karsai)",
+      "studyType": "Digital Data Collection Methods",
+      "startDate": "2025/1",
+      "endDate": "",
+      "highlights":["", ""]
+    },
     {
       "institution": "Central European University",
       "location":"Vienna, Austria",
