@@ -194,6 +194,15 @@
 }
 .#{$fa-css-prefix}.#{$fa-css-prefix}-linkedin-square:before { content: unquote("\"#{ $fa-var-linkedin }\""); }
 
+.#{$fa-css-prefix}.#{$fa-css-prefix}-bluesky-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.#{$fa-css-prefix}.#{$fa-css-prefix}-bluesky-square:before {
+  content: unquote("\"#{ $fa-var-bluesky }\"");  // Replace `$fa-var-bluesky` with the Unicode for the Bluesky icon
+}
+
 .#{$fa-css-prefix}.#{$fa-css-prefix}-thumb-tack:before { content: unquote("\"#{ $fa-var-thumbtack }\""); }
 
 .#{$fa-css-prefix}.#{$fa-css-prefix}-external-link:before { content: unquote("\"#{ $fa-var-up-right-from-square }\""); }
@@ -355,6 +364,12 @@
   font-weight: 400;
 }
 .#{$fa-css-prefix}.#{$fa-css-prefix}-linkedin:before { content: unquote("\"#{ $fa-var-linkedin-in }\""); }
+
+.#{$fa-css-prefix}.#{$fa-css-prefix}-bluesky {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+.#{$fa-css-prefix}.#{$fa-css-prefix}-bluesky:before { content: unquote("\"#{ $fa-var-bluesky-in }\""); }
 
 .#{$fa-css-prefix}.#{$fa-css-prefix}-rotate-left:before { content: unquote("\"#{ $fa-var-arrow-rotate-left }\""); }
 
