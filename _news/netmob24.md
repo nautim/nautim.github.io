@@ -6,5 +6,5 @@ related_posts: false
 ---
 
 My [poster](https://drive.google.com/file/d/1B4hVyJuLgln-xTW84tx6PmQ3DNZlRYBh/view?usp=sharing) and 
-[paper](https://arxiv.org/abs/2410.06017)  were presented at [NetMob2024](https://netmob.org/www24/) conference at the 
+[paper](https://arxiv.org/abs/2410.06017)  were presented at the [NetMob2024](https://netmob.org/www24/) conference at the 
 World Bank in Washington, DC.
