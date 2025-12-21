@@ -119,6 +119,14 @@
       "startDate": "2019",
       "endDate": "",
       "location": "United Kingdom"
+    },
+    {
+      "institution": "New York University",
+      "area": "Urban Science (with Takahiro Yabe)",
+      "studyType": "Research Visit",
+      "startDate": "2025",
+      "endDate": "",
+      "location": "United States"
     }
   ],
 
@@ -129,11 +137,11 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent (C1)"
+      "fluency": "Fluent (C1+)"
     },
     {
       "language": "German",
-      "fluency": "Intermediate (B2)"
+      "fluency": "Fluent (C1)"
     },
     {
       "language": "French",
