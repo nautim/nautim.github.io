@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Unfolding Population Resilience and Socioeconomic Disparities in Response to Cyclones in India: Insights from Mobile Phone Data
+title: "Unfolding Population Resilience and Socioeconomic Disparities in Response to Cyclones in India: Insights from Mobile Phone Data"
 description:
 img: 
 importance: 4
