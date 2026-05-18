@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Changes in Mobility after the Earthquake in Türkiye
+title: Estimating socioeconomic heterogeneity using Facebook Disaster Maps
 description:
 img: 
 importance: 1
-category: Post-Crisis Human Behaviour with Data from Meta
+category: Crisis Behaviour and Disaster Resilience
 cv_pdf: 
 ---
 
@@ -13,4 +13,4 @@ cv_pdf:
 
 ## About this Project
 
-Using data from Facebook, I am investigating changes in human mobility following earthquakes in Türkiye in February 2023, focusing on differences between different socioeconomic areas.
+Using Facebook Disaster Maps (FBDM) data, I am investigating changes in human mobility following four disasters between 2023 and 2025, focusing on differences across socioeconomic areas.
