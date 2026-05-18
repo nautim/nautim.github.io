@@ -5,7 +5,7 @@ permalink: /research/
 description:
 nav: true
 nav_order: 2
-display_categories: [Post-Crisis Human Behaviour with Mobile Data, Post-Crisis Human Behaviour with Data from Meta, Other Current Projects, Past Research]
+display_categories: [Crisis Behaviour and Disaster Resilience, Human Behaviour under Environmental Stress, AI for Humanitarian and Social Impact, Other Current Projects, Past Research]
 horizontal: true
 ---
 
