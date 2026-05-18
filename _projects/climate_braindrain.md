@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Climate Brain Drain: How natural hazard risk reshapes the geography of high-skilled mobility in the United States
+title: "Climate Brain Drain: How natural hazard risk reshapes the geography of high-skilled mobility in the United States"
 description:
 img: 
 importance: 1
