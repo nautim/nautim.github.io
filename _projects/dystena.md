@@ -4,7 +4,7 @@ title: DYSTENA
 description:
 img: 
 importance: 1
-category: Other Current Projects
+category: Past Research
 cv_pdf: 
 ---
 
