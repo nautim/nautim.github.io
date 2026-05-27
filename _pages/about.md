@@ -34,7 +34,7 @@ Beyond my official position, I identify as a social data scientist (or computati
   </div>
 </div>
 
-<div style="border-left:3px solid var(--global-theme-color);padding-left:1rem;margin:0.75rem 0 0;">
+<div style="border-left:3px solid var(--global-theme-color);padding-left:1rem;margin:1.5rem 0 2rem;">
   <p style="text-transform:uppercase;font-size:0.72rem;letter-spacing:0.12em;font-weight:700;color:var(--global-theme-color);margin-bottom:0.5rem;">Methodological Interests</p>
   <div style="display:flex;flex-wrap:wrap;gap:7px;">
     <span style="border:1px solid var(--global-theme-color);color:var(--global-theme-color);padding:3px 12px;border-radius:20px;font-size:0.82rem;">digital trace &amp; large-scale behavioural data</span>
