@@ -11,11 +11,11 @@ cv_pdf:
 {% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf" style="font-size: 48px;"></i></a>{% endif %}
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-    <span style="background-color: #0c436a; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Political Analysis</span>
-    <span style="background-color: #4a1b75; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Comparative Politics</span>
-    <span style="background-color: #79094b; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Quantitative Research</span>
-    <span style="background-color: #870808; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Qualitative Research</span>
-    <span style="background-color: #7d4509; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Digital Government</span>
+    <span style="background-color: #0c436a; padding: 5px 10px; border-radius: 5px; font-weight: bold; color: white;">Political Analysis</span>
+    <span style="background-color: #4a1b75; padding: 5px 10px; border-radius: 5px; font-weight: bold; color: white;">Comparative Politics</span>
+    <span style="background-color: #79094b; padding: 5px 10px; border-radius: 5px; font-weight: bold; color: white;">Quantitative Research</span>
+    <span style="background-color: #870808; padding: 5px 10px; border-radius: 5px; font-weight: bold; color: white;">Qualitative Research</span>
+    <span style="background-color: #7d4509; padding: 5px 10px; border-radius: 5px; font-weight: bold; color: white;">Digital Government</span>
 </div>
 
 ## About this Project

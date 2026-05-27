@@ -12,10 +12,10 @@ cv_pdf:
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-    <span style="background-color: #0c436a; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Educational Innovations</span>
-    <span style="background-color: #4a1b75; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Digitalisation of Education</span>
-    <span style="background-color: #79094b; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Educational Technology</span>
-    <span style="background-color: #870808; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Comparative Education</span>
+    <span style="background-color: #0c436a; padding: 5px 10px; border-radius: 5px; font-weight: bold; color: white;">Educational Innovations</span>
+    <span style="background-color: #4a1b75; padding: 5px 10px; border-radius: 5px; font-weight: bold; color: white;">Digitalisation of Education</span>
+    <span style="background-color: #79094b; padding: 5px 10px; border-radius: 5px; font-weight: bold; color: white;">Educational Technology</span>
+    <span style="background-color: #870808; padding: 5px 10px; border-radius: 5px; font-weight: bold; color: white;">Comparative Education</span>
 </div>
 
 ## About this Project

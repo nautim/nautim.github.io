@@ -5,12 +5,15 @@
     <div class="row">
       <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
         {% if content.startDate and content.startDate!="" %}
-        {% assign startDate = content.startDate | split: "-" | slice: 0,2 | join: "." %}
-        {% assign endDate   = content.endDate   | split: "-" | slice: 0,2 | join: "." | default: "Present" %}
-        {% assign date = startDate | append: " - "%}
-        {% assign date = date | append: endDate %}
+          {% assign startDate = content.startDate | split: "-" | slice: 0,2 | join: "." %}
+          {% if content.endDate and content.endDate != "" %}
+            {% assign endDate = content.endDate | split: "-" | slice: 0,2 | join: "." %}
+            {% assign date = startDate | append: " - " | append: endDate %}
+          {% else %}
+            {% assign date = startDate %}
+          {% endif %}
         {% else %}
-        {% assign date = null %}
+          {% assign date = null %}
         {% endif %}
         <table class="table-cv">
           <tbody>

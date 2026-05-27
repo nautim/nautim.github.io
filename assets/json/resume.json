@@ -22,12 +22,12 @@
   "work": [
     {
       "name": "Department of Network and Data Science, Central European University",
-      "position": "PhD student",
+      "position": "PhD in Network Science student",
       "url": "https://networkdatascience.ceu.edu/",
       "startDate": "2022",
       "endDate": "",
-      "summary": "Quantitative Political Analysis, International Development, Global Governance",
-      "highlights": ["Advanced Certificate in Data Science"]
+      "summary": "Advanced Certificate in Data Science",
+      "location":"Vienna, Austria"
     }
   ],
   "education": [

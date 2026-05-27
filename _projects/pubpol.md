@@ -11,10 +11,10 @@ cv_pdf:
 {% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf" style="font-size: 48px;"></i></a>{% endif %}
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-    <span style="background-color: #0c436a; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Policy Research</span>
-    <span style="background-color: #4a1b75; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Impact Evaluation</span>
-    <span style="background-color: #79094b; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Public Policy</span>
-    <span style="background-color: #870808; padding: 5px 10px; border-radius: 5px; font-weight: bold;">International Development</span>
+    <span style="background-color: #0c436a; padding: 5px 10px; border-radius: 5px; font-weight: bold; color: white;">Policy Research</span>
+    <span style="background-color: #4a1b75; padding: 5px 10px; border-radius: 5px; font-weight: bold; color: white;">Impact Evaluation</span>
+    <span style="background-color: #79094b; padding: 5px 10px; border-radius: 5px; font-weight: bold; color: white;">Public Policy</span>
+    <span style="background-color: #870808; padding: 5px 10px; border-radius: 5px; font-weight: bold; color: white;">International Development</span>
 </div>
 
 ## About this Project

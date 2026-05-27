@@ -23,6 +23,24 @@ I am a PhD Candidate at the [Department of Network and Data Science](https://net
 
 Beyond my official position, I identify as a social data scientist (or computational social scientist) passionate about understanding human behaviour and inequalities, and their intersections with international development and Sustainable Development Goals.
 
-**Substantive interests:** human behaviour · socioeconomic inequality · mobility, segregation, and resilience · societal and environmental crises · governance and institutional change
+<div style="border-left:3px solid var(--global-theme-color);padding-left:1rem;margin:1.5rem 0 0.75rem;">
+  <p style="text-transform:uppercase;font-size:0.72rem;letter-spacing:0.12em;font-weight:700;color:var(--global-theme-color);margin-bottom:0.5rem;">Substantive Interests</p>
+  <div style="display:flex;flex-wrap:wrap;gap:7px;">
+    <span style="border:1px solid var(--global-theme-color);color:var(--global-theme-color);padding:3px 12px;border-radius:20px;font-size:0.82rem;">human behaviour</span>
+    <span style="border:1px solid var(--global-theme-color);color:var(--global-theme-color);padding:3px 12px;border-radius:20px;font-size:0.82rem;">socioeconomic inequality</span>
+    <span style="border:1px solid var(--global-theme-color);color:var(--global-theme-color);padding:3px 12px;border-radius:20px;font-size:0.82rem;">mobility, segregation &amp; resilience</span>
+    <span style="border:1px solid var(--global-theme-color);color:var(--global-theme-color);padding:3px 12px;border-radius:20px;font-size:0.82rem;">societal &amp; environmental crises</span>
+    <span style="border:1px solid var(--global-theme-color);color:var(--global-theme-color);padding:3px 12px;border-radius:20px;font-size:0.82rem;">governance &amp; institutional change</span>
+  </div>
+</div>
 
-**Methodological interests:** digital trace and large-scale behavioural data · causal inference · geospatial analysis · network science · machine learning
+<div style="border-left:3px solid var(--global-theme-color);padding-left:1rem;margin:0.75rem 0 0;">
+  <p style="text-transform:uppercase;font-size:0.72rem;letter-spacing:0.12em;font-weight:700;color:var(--global-theme-color);margin-bottom:0.5rem;">Methodological Interests</p>
+  <div style="display:flex;flex-wrap:wrap;gap:7px;">
+    <span style="border:1px solid var(--global-theme-color);color:var(--global-theme-color);padding:3px 12px;border-radius:20px;font-size:0.82rem;">digital trace &amp; large-scale behavioural data</span>
+    <span style="border:1px solid var(--global-theme-color);color:var(--global-theme-color);padding:3px 12px;border-radius:20px;font-size:0.82rem;">causal inference</span>
+    <span style="border:1px solid var(--global-theme-color);color:var(--global-theme-color);padding:3px 12px;border-radius:20px;font-size:0.82rem;">geospatial analysis</span>
+    <span style="border:1px solid var(--global-theme-color);color:var(--global-theme-color);padding:3px 12px;border-radius:20px;font-size:0.82rem;">network science</span>
+    <span style="border:1px solid var(--global-theme-color);color:var(--global-theme-color);padding:3px 12px;border-radius:20px;font-size:0.82rem;">machine learning</span>
+  </div>
+</div>
