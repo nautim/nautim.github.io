@@ -1,32 +1,44 @@
 {%- comment -%}
   Formats a date range for CV badges.
   Parameters:
-    include.start   — startDate string (YYYY or YYYY-MM)
-    include.end     — endDate string   (YYYY or YYYY-MM, may be empty)
-    include.present — true to append "– Present" when end is empty
+    include.start   — startDate (YYYY or YYYY-MM)
+    include.end     — endDate   (YYYY or YYYY-MM, may be empty)
+    include.present — true to show "– Present" when end is empty
   Examples:
-    "2022-09" / "2022-12"  →  Sep–Dec 2022
-    "2020-09" / "2022-06"  →  Sep 2020 – Jun 2022
-    "2022-09" / ""         →  Sep 2022
-    "2022-09" / "" present →  Sep 2022 – Present
-    "2022"    / "2024"     →  2022–2024
+    "2022-09" / "2022-12"        →  Sep–Dec 2022
+    "2020-09" / "2022-06"        →  Sep 2020 – Jun 2022
+    "2022-09" / ""               →  Sep 2022
+    "2022-09" / "" present=true  →  Sep 2022 – Present
+    "2022"    / "2024"           →  2022–2024
 {%- endcomment -%}
 {%- assign _months = "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec" | split: "," -%}
 
 {%- assign _sp    = include.start | split: "-" -%}
 {%- assign _sy    = _sp[0] -%}
 {%- assign _splen = _sp | size -%}
-{%- if _splen > 1 -%}{%- assign _smn = _sp[1] | plus: 0 -%}{%- assign _sm = _months[_smn | minus: 1] -%}{%- else -%}{%- assign _sm = nil -%}{%- endif -%}
+{%- if _splen > 1 -%}
+  {%- assign _smi = _sp[1] | plus: 0 | minus: 1 -%}
+  {%- assign _sm  = _months[_smi] -%}
+{%- else -%}
+  {%- assign _sm = nil -%}
+{%- endif -%}
 
 {%- if include.end and include.end != "" -%}
   {%- assign _ep    = include.end | split: "-" -%}
   {%- assign _ey    = _ep[0] -%}
   {%- assign _eplen = _ep | size -%}
-  {%- if _eplen > 1 -%}{%- assign _emn = _ep[1] | plus: 0 -%}{%- assign _em = _months[_emn | minus: 1] -%}{%- else -%}{%- assign _em = nil -%}{%- endif -%}
+  {%- if _eplen > 1 -%}
+    {%- assign _emi = _ep[1] | plus: 0 | minus: 1 -%}
+    {%- assign _em  = _months[_emi] -%}
+  {%- else -%}
+    {%- assign _em = nil -%}
+  {%- endif -%}
   {%- if _sy == _ey -%}
     {%- if _sm and _em -%}{{ _sm }}–{{ _em }} {{ _sy }}{%- elsif _sm -%}{{ _sm }} {{ _sy }}{%- else -%}{{ _sy }}{%- endif -%}
   {%- else -%}
-    {%- if _sm -%}{{ _sm }} {%- endif -%}{{ _sy }} – {%- if _em -%} {{ _em }}{%- endif -%} {{ _ey }}
+    {%- if _sm -%}{%- assign _s = _sm | append: " " | append: _sy -%}{%- else -%}{%- assign _s = _sy -%}{%- endif -%}
+    {%- if _em -%}{%- assign _e = _em | append: " " | append: _ey -%}{%- else -%}{%- assign _e = _ey -%}{%- endif -%}
+    {{- _s }} – {{ _e -}}
   {%- endif -%}
 {%- elsif include.present -%}
   {%- if _sm -%}{{ _sm }} {%- endif -%}{{ _sy }} – Present
