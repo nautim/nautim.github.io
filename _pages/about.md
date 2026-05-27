@@ -22,3 +22,7 @@ social: true  # includes social icons at the bottom of the page
 I am a PhD Candidate at the [Department of Network and Data Science](https://networkdatascience.ceu.edu/) @ [CEU](https://www.ceu.edu/) under the supervision of [Márton Karsai](https://www.martonkarsai.com/) and [Elisa Omodei](https://elisaomodei.weebly.com/). 
 
 Beyond my official position, I identify as a social data scientist (or computational social scientist) passionate about understanding human behaviour and inequalities, and their intersections with international development and Sustainable Development Goals.
+
+**Substantive interests:** human behaviour · socioeconomic inequality · mobility, segregation, and resilience · societal and environmental crises · governance and institutional change
+
+**Methodological interests:** digital trace and large-scale behavioural data · causal inference · geospatial analysis · network science · machine learning
