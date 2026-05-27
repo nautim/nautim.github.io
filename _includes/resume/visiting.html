@@ -5,15 +5,13 @@
       <li class="list-group-item">
         <div class="row">
           <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
-            {% assign singleDate = content.startDate | split: "-" | slice: 0,2 | join: "." %}
-            
             <table class="table-cv">
               <tbody>
                 <tr>
                   <td>
-                    {% if singleDate %}
+                    {% if content.startDate and content.startDate != "" %}
                       <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
-                        {{singleDate}}
+                        {% include resume/date_range.html start=content.startDate end=content.endDate present=false %}
                       </span>
                     {% endif %}
                   </td>

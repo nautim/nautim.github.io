@@ -3,24 +3,13 @@
   <li class="list-group-item">
     <div class="row">
       <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
-        {% if content.startDate and content.startDate!="" %}
-          {% assign startDate = content.startDate | split: "-" | slice: 0,2 | join: "." %}
-          {% if content.endDate and content.endDate != "" %}
-            {% assign endDate = content.endDate | split: "-" | slice: 0,2 | join: "." %}
-            {% assign date = startDate | append: " - " | append: endDate %}
-          {% else %}
-            {% assign date = startDate %}
-          {% endif %}
-        {% else %}
-          {% assign date = null %}
-        {% endif %}
         <table class="table-cv">
           <tbody>
             <tr>
               <td>
-                {% if date %}
+                {% if content.startDate and content.startDate != "" %}
                 <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
-                {{date}}
+                  {% include resume/date_range.html start=content.startDate end=content.endDate present=false %}
                 </span>
                 {% endif %}
               </td>

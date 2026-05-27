@@ -61,7 +61,7 @@
       "institution": "",
       "area": "Computer Vision, Deep Learning, Graph Neural Networks, and Generative Models",
       "studyType": "Mediterranean Machine Learning Summer School",
-      "startDate": "2023",
+      "startDate": "2023-08",
       "endDate": "",
       "location":"Thessaloniki, GR"
     },
@@ -69,7 +69,7 @@
       "institution": "Higher School of Economics",
       "area": "Collecting Digital Trace Data, Automated Text Analysis and Networks, Digital Surveys",
       "studyType": "The Summer Institute in Computational Social Science",
-      "startDate": "2021",
+      "startDate": "2021-06",
       "endDate": "",
       "location":"Online"
     }
@@ -80,8 +80,8 @@
       "location":"Vienna, AT",
       "area": "Teaching Assistant of the Course (with Márton Karsai)",
       "studyType": "Digital Data Collection Methods",
-      "startDate": "2026/1",
-      "endDate": "",
+      "startDate": "2026-01",
+      "endDate": "2026-03",
       "highlights":["", ""]
   },
   {
@@ -89,8 +89,8 @@
       "location":"Vienna, AT",
       "area": "Teaching Assistant of the Course (with Márton Karsai)",
       "studyType": "Digital Data Collection Methods",
-      "startDate": "2025/1",
-      "endDate": "",
+      "startDate": "2025-01",
+      "endDate": "2025-03",
       "highlights":["", ""]
     },
     {
@@ -98,8 +98,8 @@
       "location":"Vienna, AT",
       "area": "Teaching Assistant of the Course (with Mark Wittek)",
       "studyType": "Introduction to Computational Social Science",
-      "startDate": "2024/9",
-      "endDate": "",
+      "startDate": "2024-09",
+      "endDate": "2024-12",
       "highlights":["", ""]
     },
     {
@@ -107,8 +107,8 @@
       "location":"Vienna, AT",
       "area": "Teaching Assistant of the Course (with Márton Karsai)",
       "studyType": "Data Mining and Big Data Analytics",
-      "startDate": "2024/1",
-      "endDate": "",
+      "startDate": "2024-01",
+      "endDate": "2024-03",
       "highlights":["", ""]
     },
     {
@@ -116,7 +116,7 @@
       "location":"Vienna, AT",
       "area": "Gave a Lecture to the students of the Department of Data and Network Science",
       "studyType": "Artificial Intelligence in Disaster Management",
-      "startDate": "2023/11",
+      "startDate": "2023-11",
       "endDate": "",
       "highlights":["", ""]
     }
@@ -134,16 +134,16 @@
       "institution": "New York University",
       "area": "Urban Science (with Takahiro Yabe)",
       "studyType": "Research Visit",
-      "startDate": "2025",
-      "endDate": "",
+      "startDate": "2025-09",
+      "endDate": "2025-12",
       "location": "United States"
     },
     {
       "institution": "ISI Foundation",
       "area": "Data for Good (with Kyriaki Kalimeri)",
       "studyType": "Research Visit",
-      "startDate": "2026",
-      "endDate": "",
+      "startDate": "2026-04",
+      "endDate": "2026-05",
       "location": "Italy"
     }
   ],
