@@ -22,12 +22,12 @@
   "work": [
     {
       "name": "Department of Network and Data Science, Central European University",
-      "position": "PhD in Network Science student",
+      "position": "PhD in Network Science",
       "url": "https://networkdatascience.ceu.edu/",
       "startDate": "2022",
       "endDate": "",
       "summary": "Advanced Certificate in Data Science",
-      "location":"Vienna, Austria"
+      "location":"Vienna, AT"
     }
   ],
   "education": [
@@ -37,7 +37,7 @@
       "studyType": "Master of Public Administration",
       "startDate": "2020",
       "endDate": "2022",
-      "location":"Vienna, Austria"
+      "location":"Vienna, AT"
     },
     {
       "institution": "Higher School of Economics",
@@ -45,7 +45,7 @@
       "studyType": "BSc in Political Science",
       "startDate": "2016",
       "endDate": "2020",
-      "location":"Moscow, Russia"
+      "location":"Moscow, RU"
     }
   ],
   "additional_education": [
@@ -55,7 +55,7 @@
       "studyType": "The Certificate of Teaching in Higher Education",
       "startDate": "2023",
       "endDate": "2024",
-      "location":"Vienna, Austria"
+      "location":"Vienna, AT"
     },
     {
       "institution": "",
@@ -63,7 +63,7 @@
       "studyType": "Mediterranean Machine Learning Summer School",
       "startDate": "2023",
       "endDate": "",
-      "location":"Thessaloniki, Greece"
+      "location":"Thessaloniki, GR"
     },
     {
       "institution": "Higher School of Economics",
@@ -71,13 +71,13 @@
       "studyType": "The Summer Institute in Computational Social Science",
       "startDate": "2021",
       "endDate": "",
-      "location":""
+      "location":"Online"
     }
   ],
   "teaching": [
   {
       "institution": "Central European University",
-      "location":"Vienna, Austria",
+      "location":"Vienna, AT",
       "area": "Teaching Assistant of the Course (with Márton Karsai)",
       "studyType": "Digital Data Collection Methods",
       "startDate": "2026/1",
@@ -86,7 +86,7 @@
   },
   {
       "institution": "Central European University",
-      "location":"Vienna, Austria",
+      "location":"Vienna, AT",
       "area": "Teaching Assistant of the Course (with Márton Karsai)",
       "studyType": "Digital Data Collection Methods",
       "startDate": "2025/1",
@@ -95,7 +95,7 @@
     },
     {
       "institution": "Central European University",
-      "location":"Vienna, Austria",
+      "location":"Vienna, AT",
       "area": "Teaching Assistant of the Course (with Mark Wittek)",
       "studyType": "Introduction to Computational Social Science",
       "startDate": "2024/9",
@@ -104,7 +104,7 @@
     },
     {
       "institution": "Central European University",
-      "location":"Vienna, Austria",
+      "location":"Vienna, AT",
       "area": "Teaching Assistant of the Course (with Márton Karsai)",
       "studyType": "Data Mining and Big Data Analytics",
       "startDate": "2024/1",
@@ -113,7 +113,7 @@
     },
     {
       "institution": "Central European University",
-      "location":"Vienna, Austria",
+      "location":"Vienna, AT",
       "area": "Gave a Lecture to the students of the Department of Data and Network Science",
       "studyType": "Artificial Intelligence in Disaster Management",
       "startDate": "2023/11",
