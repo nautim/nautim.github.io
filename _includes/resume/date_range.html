@@ -13,6 +13,7 @@
 {%- endcomment -%}
 {%- assign _months = "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec" | split: "," -%}
 
+{%- comment -%}— parse start —{%- endcomment -%}
 {%- assign _sp    = include.start | split: "-" -%}
 {%- assign _sy    = _sp[0] -%}
 {%- assign _splen = _sp | size -%}
@@ -22,8 +23,15 @@
 {%- else -%}
   {%- assign _sm = nil -%}
 {%- endif -%}
+{%- comment -%}— build start label —{%- endcomment -%}
+{%- if _sm -%}
+  {%- assign _slabel = _sm | append: " " | append: _sy -%}
+{%- else -%}
+  {%- assign _slabel = _sy -%}
+{%- endif -%}
 
 {%- if include.end and include.end != "" -%}
+  {%- comment -%}— parse end —{%- endcomment -%}
   {%- assign _ep    = include.end | split: "-" -%}
   {%- assign _ey    = _ep[0] -%}
   {%- assign _eplen = _ep | size -%}
@@ -33,15 +41,25 @@
   {%- else -%}
     {%- assign _em = nil -%}
   {%- endif -%}
+  {%- comment -%}— same year: collapse year —{%- endcomment -%}
   {%- if _sy == _ey -%}
-    {%- if _sm and _em -%}{{ _sm }}–{{ _em }} {{ _sy }}{%- elsif _sm -%}{{ _sm }} {{ _sy }}{%- else -%}{{ _sy }}{%- endif -%}
+    {%- if _sm and _em -%}
+      {%- assign _out = _sm | append: "–" | append: _em | append: " " | append: _sy -%}
+    {%- else -%}
+      {%- assign _out = _slabel -%}
+    {%- endif -%}
   {%- else -%}
-    {%- if _sm -%}{%- assign _s = _sm | append: " " | append: _sy -%}{%- else -%}{%- assign _s = _sy -%}{%- endif -%}
-    {%- if _em -%}{%- assign _e = _em | append: " " | append: _ey -%}{%- else -%}{%- assign _e = _ey -%}{%- endif -%}
-    {{- _s }} – {{ _e -}}
+    {%- comment -%}— cross-year —{%- endcomment -%}
+    {%- if _em -%}
+      {%- assign _elabel = _em | append: " " | append: _ey -%}
+    {%- else -%}
+      {%- assign _elabel = _ey -%}
+    {%- endif -%}
+    {%- assign _out = _slabel | append: " – " | append: _elabel -%}
   {%- endif -%}
 {%- elsif include.present -%}
-  {%- if _sm -%}{{ _sm }} {%- endif -%}{{ _sy }} – Present
+  {%- assign _out = _slabel | append: " – Present" -%}
 {%- else -%}
-  {%- if _sm -%}{{ _sm }} {%- endif -%}{{ _sy }}
+  {%- assign _out = _slabel -%}
 {%- endif -%}
+{{- _out -}}
